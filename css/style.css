@@ -120,6 +120,8 @@ color: red;
   float: right;
     font-size: 30px;
     list-style: none;
+    opacity: 0.9;
+
     
 }
 
@@ -145,7 +147,8 @@ color: red;
   width: 288px;
   height: 177px;
   padding: 10px;
-
+  opacity: 0.8;
+  border-radius: 20px;
 }
 
 #Evaluate .send {
