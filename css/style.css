@@ -91,7 +91,10 @@
   content: "-";
   margin-right: 5px;
 }
-
+#Notification a {
+ color:blue;
+ text-decoration: none;
+}
 #Notification li {
   margin-top: 16px;
 }
