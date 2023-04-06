@@ -12,7 +12,7 @@
 }
 /* header  */
 #header {
-  background-image: url(/img/background_header_footer.png);
+  background-image: url(/img/backgroundheaderfooter.png);
   height: 110px;
   border-bottom: 4px solid #464e2e;
   background-size: 100% auto;
@@ -63,7 +63,7 @@
 /* content */
 
 #content {
-  background-image: url(/img/background_main.jpg);
+  background-image: url(/img/backgroundmain.jpg);
   background-position: top center;
   background-size: 100% auto;
   background-repeat: repeat-y;
@@ -218,7 +218,7 @@
 }
 
 #footer {
-  background-image: url(/img/background_header_footer.png);
+  background-image: url(/img/backgroundheaderfooter.png);
   height: 110px;
   opacity: 0.9;
   background-size: 100% auto;
