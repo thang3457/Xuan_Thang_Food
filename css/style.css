@@ -9,7 +9,6 @@
 }
 #main {
   font-family: Arial, Helvetica, sans-serif;
-
 }
 
 :root {
@@ -437,7 +436,6 @@ img.avatar {
   background-color: #f5f5f5;
   padding: 46px;
   text-align: center;
-
 }
 
 #ship ul {
@@ -449,12 +447,12 @@ img.avatar {
 #contentship p {
   margin: 0;
   padding: 20px;
-    display: inline-block;
-    border: 1px solid;
+  display: inline-block;
+  border: 1px solid;
   border-radius: 10px;
 }
 
-#ship { 
+#ship {
   padding: 10px;
 }
 
@@ -470,17 +468,15 @@ img.avatar {
 #ship li p {
   margin: 0;
   font-weight: bold;
- 
 }
 #ship li p:hover {
-  color:#0072c6 ;
+  color: #0072c6;
   text-decoration: underline;
   cursor: pointer;
 }
 
 #ship .slogan {
-  margin-bottom: 48px;  
-
+  margin-bottom: 48px;
 }
 
 #ship li a {
@@ -493,9 +489,6 @@ img.avatar {
   margin-bottom: 60px;
 }
 
-
-
-
 /*-----------------------footer------------------------  */
 
 #footer {
@@ -503,16 +496,12 @@ img.avatar {
   padding: 20px;
   text-align: center;
   font-size: 14px;
- 
-  
 }
 .under {
-  position: absolute ;
-  bottom  : 0;
+  position: absolute;
+  bottom: 0;
   right: 0;
   left: 0;
-
-  
 }
 .mxh {
   display: inline-block;
